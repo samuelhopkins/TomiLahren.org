@@ -1,0 +1,14 @@
+.row
+{
+	margin-right: 15px;
+	margin-left: 15px;
+	width: 100%;
+}
+
+.content
+{
+	margin: 0 auto;
+	margin-top: 20%;
+	display: inline-block;
+
+}
